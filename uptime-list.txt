@@ -1,0 +1,6 @@
+https://linux.usu.edu/health
+https://chessh.linux.usu.edu/api/health
+https://print.linux.usu.edu/health
+https://aggie-auth.linux.usu.edu/health
+https://trongleposting.linux.usu.edu/api/health
+https://mail.linux.usu.edu/health
