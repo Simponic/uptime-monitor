@@ -29,7 +29,7 @@ app.listen(port, () => {
 const axios = require("axios");
 const fs = require("node:fs");
 
-const POLL_INTERVAL = 30_000;
+const POLL_INTERVAL = 60_000;
 const TIMEOUT = 25_000;
 const REMIND_INTERVAL = 1 * 60 * 60_000;
 
